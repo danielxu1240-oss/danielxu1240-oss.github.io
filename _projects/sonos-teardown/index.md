@@ -12,6 +12,7 @@ skills:
 main-image: /violin.png
 ---
 ## CAD
+{% include image-gallery.html images="Violin CAD.PNG" height="400" %}
 ---
 ## Code
 ```C
