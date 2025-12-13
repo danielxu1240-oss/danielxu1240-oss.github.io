@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Go2 Quarduped Navigation
+description:  Implemented an ego circle and cylinder based navigation strategy for the Go2 quadruped robot using ROS2. Developed custom Gazebo environments to evaluate LiDAR performance across varied obstacles, visualized simulation results in RViz, and designed SolidWorks mounts for third party computing hardware and sensors.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - ROS
+  - Gazebo
+  - RViz
+  - Linux
+  - C++
+  - Python
 
 main-image: /project2.jpg
 ---
