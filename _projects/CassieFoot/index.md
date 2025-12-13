@@ -11,5 +11,5 @@ main-image: Cassie_main.png
 ---
 ---
 ## CAD
-{% include image-gallery.html images="cassie_CAD.png" height="700" %} 
+{% include image-gallery.html images="Cassie_CAD.png" height="700" %} 
 ---
