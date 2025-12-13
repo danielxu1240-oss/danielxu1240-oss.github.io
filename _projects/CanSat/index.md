@@ -13,7 +13,10 @@ skills:
 
 main-image: /CanSat_extended.png
 ---
-{% include image-gallery.html images="CanSat_main.png" height="1000" %}
+{% include image-gallery.html images="CanSat_main.png" height="700" %}
 ---
 ## CAD
-{% include image-gallery.html images="CanSat_CAd.png" height="1000" %}
+{% include image-gallery.html images="CanSat_CAD.png" height="1000" %}
+---
+## Code
+{% include image-gallery.html images="CanSat_code.png" height="500" %}
