@@ -18,10 +18,10 @@ main-image: /Go2_main.png
 ## Egocylinder
 {% include image-gallery.html images="Egocylinder.png" height="500" %} 
 ---
-## Egocylinder
-{% include image-gallery.html images="RViz_scan.png" height="500" %} 
----
-## Gazebo World Test
+## Egocircle
 {% include image-gallery.html images="Egocircle.png" height="400" %} 
+---
+## RViz Visualization
+{% include image-gallery.html images="RViz_scan.png" height="600" %} 
 ---
 
