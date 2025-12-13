@@ -11,7 +11,7 @@ skills:
   - Drone Components (Flight Controller, ESC)
   - Signal Processing
 
-main-image: /CanSat_extended.png
+main-image: /CanSat_extended2.png
 ---
 {% include image-gallery.html images="CanSat_main.png" height="700" %}
 ---
